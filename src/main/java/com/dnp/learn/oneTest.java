@@ -7,6 +7,6 @@ package com.dnp.learn;
 public class oneTest {
 
     public void test1() {
-        String msg = "test1版本我想用的信息用apoll推送";
+        String msg = "test2版本我想用的信息用mxSever推送";
     }
 }
