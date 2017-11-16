@@ -6,6 +6,6 @@ package com.dnp.learn;
  */
 public class test4 {
     public void test1() {
-        String msg = "我想用mx推送";
+        String mxupdate = "我想用mx推送";
     }
 }
