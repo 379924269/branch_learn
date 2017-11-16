@@ -6,6 +6,6 @@ package com.dnp.learn;
  */
 public class OneTest3 {
     public void test1() {
-        String msg = "我继续在apollo推送上继续开发";
+        String msg = "主干继续开发";
     }
 }
