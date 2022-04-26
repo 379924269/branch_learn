@@ -6,6 +6,8 @@ package com.dnp.learn;
  */
 public class Test6 {
     public static void main(String[] args) {
-        System.out.println("===树干上出阿德一些代码===");
+        System.out.println("修改test6");
     }
+
+    // 修改了test6
 }
